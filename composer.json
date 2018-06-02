@@ -1,0 +1,11 @@
+{
+    "name": "yaml_test/yaml_test",
+    "authors": [
+        {
+            "name": "yaml_test"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^3.3"
+    }
+}
